@@ -1,0 +1,16 @@
+{
+	"dependencies": {
+		"@types/node": "*"
+	},
+	"description": "TypeScript definitions for Nightmare",
+	"homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped.git#readme",
+	"license": "MIT",
+	"main": "",
+	"name": "nightmarev3types",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/mingos777/nightmarev3types.git"
+	},
+	"scripts": {},
+	"version": "2.10.4"
+}
